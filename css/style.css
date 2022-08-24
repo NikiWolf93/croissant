@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  font-size: 130px;
+  color: blueviolet;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+}
+
+body {
+  background: #e3dcb7;
+}
+
+p {
+  display: block;
+  text-align: center;
+  padding: 40px;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+a {
+  font-size: 30px;
+}
