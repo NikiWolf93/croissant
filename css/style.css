@@ -10,7 +10,7 @@ h2 {
 }
 
 body {
-  background: #e3dcb7;
+  background: #e2c221;
 }
 
 p {
@@ -23,4 +23,9 @@ p {
 
 a {
   font-size: 30px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
 }
